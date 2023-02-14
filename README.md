@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Herer are many machine learning projects ranging from classical models to Neural Networks
+Here are many machine learning projects ranging from classical models to Neural Networks
 
 ## 1. Judging a Book by its Cover  
 • Build Neural Network Architectures ,**CNNs and RNNs on image(Book cover image) and text(Book title)
